@@ -95,7 +95,7 @@ La combinación de RNN y Modelos BERT en esta arquitectura aprovecha lo mejor de
 │   │   └── todo.txt
 ├── datalab/
 │   └── todo.txt
-├── src/
+├── Image/
 │   └── todo.txt
 ├── conf/
 │   └── todo.txt
@@ -167,7 +167,7 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
 ## Roadmap
-![Road_Map](src/Road.png)
+![Road_Map](image/Road.png)
 
 
 ## Contributing
