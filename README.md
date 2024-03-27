@@ -188,5 +188,7 @@ If you have run out of energy or time for your project, put a note at the top of
 
 | Organización   | Nombre del Miembro | Correo electronico | 
 |----------|-------------|-------------|
-| PUJ-Bogota |  Persona 1: Cientific@ de Datos | ejemplo@XXXX |
-| Organizacion  |  Persona 2:Lider del negocio  | ejemplo@XXXX |
+| PUJ-Bogota |  Juan David Villate Lemus | juand.villate@javeriana.edu.co |
+| PUJ-Bogota |  Laura Carolina Tinjacá Cristancho | tinjacac.l@javeriana.edu.co |
+| PUJ-Bogota |  Laura Giselle Estrada Saldarriaga | l-estiarada@javeriana.edu.co |
+| Organizacion  |  Juan Pablo Pájaro Hernández  | juanpajaro@javeriana.edu.co |
