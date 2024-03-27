@@ -188,7 +188,7 @@ If you have run out of energy or time for your project, put a note at the top of
 
 | Organización   | Nombre del Miembro | Correo electronico | 
 |----------|-------------|-------------|
-| PUJ-Bogota |  Juan David Villate Lemus | juand.villate@javeriana.edu.co |
-| PUJ-Bogota |  Laura Carolina Tinjacá Cristancho | tinjacac.l@javeriana.edu.co |
-| PUJ-Bogota |  Laura Giselle Estrada Saldarriaga | l-estiarada@javeriana.edu.co |
-| Organizacion  |  Juan Pablo Pájaro Hernández  | juanpajaro@javeriana.edu.co |
+| PUJ-Bogota |  Juan David Villate Lemus: Cientifico de Datos | juand.villate@javeriana.edu.co |
+| PUJ-Bogota |  Laura Carolina Tinjacá Cristancho: Cientifica de Datos | tinjacac.l@javeriana.edu.co |
+| PUJ-Bogota |  Laura Giselle Estrada Saldarriaga: Cientifica de Datos | l-estiarada@javeriana.edu.co |
+| Organizacion  |  Juan Pablo Pájaro Hernández: Líder  | juanpajaro@javeriana.edu.co |
