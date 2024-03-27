@@ -126,6 +126,7 @@ La combinación de RNN y Modelos BERT en esta arquitectura aprovecha lo mejor de
 ### Librerias Empleadas 
 
 •	Pandas: Para la manipulación y análisis de datos.
+
 •	NumPy: Biblioteca de soporte para matrices y operaciones matemáticas de alto nivel.
 •	re: Módulo de expresiones regulares para procesamiento de texto.
 •	Optuna: Framework de optimización de hiperparámetros para mejorar el rendimiento de los modelos.
