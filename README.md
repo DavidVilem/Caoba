@@ -58,7 +58,7 @@ Participants will be given a snippet of clinical text and asked to:
 
 ### Screenshots / Demo
 **Nota:** Obligatorio: Debe poner una imagen, .gif o otros de la solucion entregada desplegada para el negocio
-![screenshot](https://www.eclipsemediasolutions.com/sites/default/files/Audience-web-traffic-fluctuations1.jpg)
+![screenshot])
 
 ## Arquitectura logica de la solución
 
