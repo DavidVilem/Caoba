@@ -125,8 +125,8 @@ La combinación de RNN y Modelos BERT en esta arquitectura aprovecha lo mejor de
 **Nota:** Obligatorio: Minimo debe escribir los requerimientos por cada lenguaje de programacion usado tanto en el back-end (Ej: Python, R) como en el front-end, si aplica. Tambien, es importante que ponga las versiones correspondientes 
 ### Librerias Empleadas 
 
-- Pandas: Para la manipulación y análisis de datos.
-- NumPy: Biblioteca de soporte para matrices y operaciones matemáticas de alto nivel.
+- Pandas: Manipulación y análisis de datos.
+- NumPy: Soporte para matrices y operaciones matemáticas de alto nivel.
 - Re: Módulo de expresiones regulares para procesamiento de texto.
 - Optuna: Framework de optimización de hiperparámetros para mejorar el rendimiento de los modelos.
 - Random: Generación de números aleatorios para la creación de conjuntos de datos y validación cruzada.
