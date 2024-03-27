@@ -125,18 +125,17 @@ La combinación de RNN y Modelos BERT en esta arquitectura aprovecha lo mejor de
 **Nota:** Obligatorio: Minimo debe escribir los requerimientos por cada lenguaje de programacion usado tanto en el back-end (Ej: Python, R) como en el front-end, si aplica. Tambien, es importante que ponga las versiones correspondientes 
 ### Librerias Empleadas 
 
-•	Pandas: Para la manipulación y análisis de datos.
-
-•	NumPy: Biblioteca de soporte para matrices y operaciones matemáticas de alto nivel.
-•	re: Módulo de expresiones regulares para procesamiento de texto.
-•	Optuna: Framework de optimización de hiperparámetros para mejorar el rendimiento de los modelos.
-•	Random: Generación de números aleatorios para la creación de conjuntos de datos y validación cruzada.
-•	Sklearn (scikit-learn): Para realizar tareas de aprendizaje automático como la división de datos y evaluación de modelos mediante KFold y métricas de precisión, recall, fscore y accuracy.
-•	Datasets: De la biblioteca Hugging Face, para facilitar la carga y manipulación de conjuntos de datos en formato adecuado para modelos de PLN.
-•	Transformers: También de Hugging Face, proporciona modelos preentrenados para clasificación de secuencias, tokenización y entrenamiento de modelos.
-•	RobertaTokenizer y RobertaForSequenceClassification: Tokenizador y modelo para clasificación de secuencias basados en RoBERTa.
-•	TrainingArguments y Trainer: Para configurar y ejecutar el entrenamiento de modelos de transformers.
-•	TrainerCallback: Para personalizar callbacks durante el entrenamiento.
+- Pandas: Para la manipulación y análisis de datos.
+- NumPy: Biblioteca de soporte para matrices y operaciones matemáticas de alto nivel.
+- Re: Módulo de expresiones regulares para procesamiento de texto.
+- Optuna: Framework de optimización de hiperparámetros para mejorar el rendimiento de los modelos.
+- Random: Generación de números aleatorios para la creación de conjuntos de datos y validación cruzada.
+- Sklearn (scikit-learn): Para realizar tareas de aprendizaje automático como la división de datos y evaluación de modelos mediante KFold y métricas de precisión, recall, fscore y accuracy.
+- Datasets: De la biblioteca Hugging Face, para facilitar la carga y manipulación de conjuntos de datos en formato adecuado para modelos de PLN.
+- Transformers: También de Hugging Face, proporciona modelos preentrenados para clasificación de secuencias, tokenización y entrenamiento de modelos.
+- RobertaTokenizer y RobertaForSequenceClassification: Tokenizador y modelo para clasificación de secuencias basados en RoBERTa.
+- TrainingArguments y Trainer: Para configurar y ejecutar el entrenamiento de modelos de transformers.
+- TrainerCallback: Para personalizar callbacks durante el entrenamiento.
 
 ### Requerimientos Hardware
 Para llenar
